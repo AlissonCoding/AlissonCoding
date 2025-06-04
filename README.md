@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Alisson Ramos<br><br>💻 I build, learn, and share cool things with code.  <br>🚀 Let’s create something awesome!</h2>
+<h1 align="center">👋 Hey! I'm Alisson Ramos<br><br>💻 I build, learn, and share cool things with code.  <br>🚀 Let’s create something awesome!</h1>
 
 ###
 
@@ -41,12 +41,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlissonCoding/AlissonCoding/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlissonCoding/AlissonCoding/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlissonCoding/AlissonCoding/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+##
